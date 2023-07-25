@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Rodrigo 👋
 
+Eu sempre achei o mundo da tecnologia muito interessante<br/> e cheio de muitas possibilidades, estou sempre em constante<br/> evolução no aprendizado de novas tecnologias, eu considero<br/> a programação como parte da minha vida.
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramos-837513253/)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Dev123&show_icons=true&theme=cobalt)
@@ -24,6 +27,3 @@
     <a href="https://github.com/Rodrigo-Dev123">
      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Dev123&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-
-
-Eu sempre achei o mundo da tecnologia muito interessante<br/> e cheio de muitas possibilidades, estou sempre em constante<br/> evolução no aprendizado de novas tecnologias, eu considero<br/> a programação como parte da minha vida.
