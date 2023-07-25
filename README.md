@@ -20,4 +20,4 @@
 
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
-Eu sempre achei o mundo da tecnologia muito interessante<br/> e cheio de oportunidades, estou sempre em constante<br/> evolução no aprendizado de novas tecnologias, eu considero<br/> a programação como parte da minha vida.
+Eu sempre achei o mundo da tecnologia muito interessante<br/> e cheio de muitas possibilidades, estou sempre em constante<br/> evolução no aprendizado de novas tecnologias, eu considero<br/> a programação como parte da minha vida.
