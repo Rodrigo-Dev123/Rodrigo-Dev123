@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo 👋
 
-Eu sempre achei o mundo da tecnologia muito interessante<br/> e cheio de muitas possibilidades, estou sempre em constante<br/> evolução no aprendizado de novas habilidades, eu considero<br/> a programação como parte da minha vida.
+Eu sempre achei o mundo da tecnologia muito interessante<br/> e cheio de muitas possibilidades, estou sempre em constante<br/> evolução no aprendizado de novas habilidades. Eu considero<br/> a programação como parte da minha vida.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramos-837513253/)
