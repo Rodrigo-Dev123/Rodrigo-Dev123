@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Rodrigo 👋
 
-Eu sempre achei o mundo da tecnologia interessante<br/> e cheio de muitas possibilidades, estou sempre em constante<br/> evolução no aprendizado de novas habilidades. Eu considero<br/> a programação como parte da minha vida.
-
+Desde sempre, nutro um fascínio inegável pelo mundo da tecnologia, um universo repleto de infinitas possibilidades. Minha jornada é marcada por uma busca constante pela evolução, ávido em aprender novas habilidades e aprimorar meus conhecimentos. Em especial, a programação assume um papel central em minha vida, transcendendo a mera atividade para se tornar uma verdadeira paixão que impulsiona meu crescimento pessoal e profissional.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramos-837513253/)
 
