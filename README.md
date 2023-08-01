@@ -1,6 +1,12 @@
 ### Olá! Eu sou o Rodrigo 👋
 
-Desde o início, sou profundamente fascinado pelo vasto mundo da tecnologia, um universo repleto de possibilidades infinitas. Minha jornada é caracterizada por uma busca incessante pelo progresso, ansioso por aprender novas habilidades e aperfeiçoar meus conhecimentos. Entre todas as áreas que me encantam, a programação ocupa um lugar central em minha vida, transcendendo a mera atividade para se tornar uma verdadeira paixão que impulsionou meu crescimento pessoal e profissional de forma extraordinária. Cada linha de código que escrevo é uma oportunidade de transformar ideias em realidade, de criar soluções inteligentes e inovadoras para os desafios do nosso tempo. A tecnologia é o combustível que impulsiona minha curiosidade e criatividade, permitindo-me mergulhar em projetos empolgantes e colaborar com mentes brilhantes em busca de um impacto positivo no mundo. Essa incessante busca por conhecimento e a determinação em superar obstáculos têm me proporcionado uma jornada de crescimento contínuo, e estou emocionado com as infinitas possibilidades que o futuro reserva nessa empolgante área da tecnologia.
+Sou apaixonado pelo vasto mundo da tecnologia desde o início. Busco constantemente</br>
+o progresso, aprendendo novas habilidades e aprimorando meu conhecimento. A programação</br> 
+é minha verdadeira paixão, impulsionando meu crescimento pessoal e profissional. Transformar ideias</br> 
+em realidade através do código é incrivelmente gratificante. Colaborar em projetos empolgantes com mentes</br> 
+brilhantes em busca de um impacto positivo no mundo é o que me motiva. Minha busca incessante por</br> 
+conhecimento e determinação em superar obstáculos tem impulsionado meu crescimento contínuo.</br> 
+Estou animado com as infinitas possibilidades que o futuro reserva nessa empolgante área da tecnologia.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramos-837513253/)
 
