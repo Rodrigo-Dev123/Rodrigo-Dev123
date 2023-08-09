@@ -6,7 +6,7 @@ o progresso, aprendendo novas habilidades e aprimorando meu conhecimento. A prog
 em realidade através do código é incrivelmente gratificante. Colaborar em projetos empolgantes com mentes</br> 
 brilhantes em busca de um impacto positivo no mundo é o que me motiva. Minha busca incessante por</br> 
 conhecimento e determinação em superar obstáculos tem impulsionado meu crescimento contínuo.</br> 
-Estou animado com as infinitas possibilidades que o futuro reserva nessa empolgante área da tecnologia.
+Estou animado com as infinitas possibilidades que o futuro reserva nessa incrível área da tecnologia.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramos-837513253/)
 
