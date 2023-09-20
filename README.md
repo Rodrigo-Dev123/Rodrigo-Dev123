@@ -22,6 +22,8 @@ Estou animado com as infinitas possibilidades que o futuro reserva nessa incrív
     <img aling="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div> 
 
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+
 <div>
     <a href="https://github.com/Rodrigo-Dev123">
      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Dev123&layout=compact&langs_count=7&theme=onedark"/>
