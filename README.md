@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo 👋
 
-Sou apaixonado pelo vasto mundo da tecnologia desde sempre. Busco constantemente</br>
+Sou apaixonado pelo vasto mundo da tecnologia. Busco constantemente</br>
 o progresso, aprendendo novas habilidades e aprimorando meu conhecimento. A programação</br> 
 é minha verdadeira paixão, impulsionando meu crescimento pessoal e profissional. Transformar ideias</br> 
 em realidade através do código é incrivelmente gratificante. Colaborar em projetos empolgantes com mentes</br> 
