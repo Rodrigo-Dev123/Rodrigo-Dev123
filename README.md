@@ -2,8 +2,8 @@
 
 Sou apaixonado pelo vasto mundo da tecnologia. Busco constantemente</br>
 o progresso, aprendendo novas habilidades e aprimorando meu conhecimento. A programação</br> 
-é minha verdadeira paixão, impulsionando meu crescimento pessoal e profissional. Transformar ideias</br> 
-em realidade através do código é incrivelmente gratificante. Colaborar em projetos empolgantes com mentes</br> 
+é a minha verdadeira paixão. Transformar ideias</br> 
+em realidade através do código é muito gratificante. Colaborar em projetos empolgantes com mentes</br> 
 brilhantes em busca de um impacto positivo no mundo é o que me motiva. Minha busca incessante por</br> 
 conhecimento e determinação em superar obstáculos tem impulsionado meu crescimento contínuo.</br> 
 Estou animado com as infinitas possibilidades que o futuro reserva nessa incrível área da tecnologia.
